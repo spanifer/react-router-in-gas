@@ -1,0 +1,11 @@
+node_modules
+
+.clasp.json
+
+.parcel-cache
+
+# exclude parcel generated index html
+dist/index.html
+
+# exclude appsscript manifest file
+dist/appsscript.json
